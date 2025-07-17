@@ -49,5 +49,5 @@ Do NOT use it on networks you don’t own or have permission to test.
 
 
 ## 🙌 Author
-Created by `Cybernerddd`
-GitHub: `github.com/Cybernerddd`
+- Created by `Cybernerddd`
+- GitHub: `github.com/Cybernerddd`
