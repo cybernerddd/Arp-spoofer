@@ -36,12 +36,12 @@ sudo python3 arp_spoofer.py -t 192.168.1.147 -g 192.168.1.1
 > Requires root privileges
 
 ## Sample Output
-[*] Enabling IP Forwarding...
-[*] Starting ARP spoofing on `192.168.1.147` <-> `192.168.1.1`
-[+] Sent Packets: 10
+- [*] Enabling IP Forwarding...
+- [*] Starting ARP spoofing on `192.168.1.147` <-> `192.168.1.1`
+- [+] Sent Packets: 10
 ...
-[-] CTRL+C detected. Restoring ARP tables...
-[+] ARP spoofing stopped and targets restored.
+- [-] CTRL+C detected. Restoring ARP tables...
+- [+] ARP spoofing stopped and targets restored.
 
 ## ⚠️ Legal Disclaimer
 This tool is for educational and authorized penetration testing only.
