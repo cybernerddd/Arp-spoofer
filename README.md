@@ -59,7 +59,7 @@ sudo python3 modern_arp_spoofer.py -t <victim_ip> -g <gateway_ip> -i <interface>
 
 **Example:**
 ```sh
-sudo python3 modern_arp_spoofer.py -t 192.168.1.10 -g 192.168.1.1 -i eth0 --sniff
+sudo python3 arp_spoof.py -t 192.168.1.10 -g 192.168.1.1 -i eth0 --sniff
 ```
 
 ---
